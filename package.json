@@ -1,0 +1,31 @@
+{
+  "name": "devextreme-react-grid-for-bootstrap-4",
+  "version": "0.0.14",
+  "description": null,
+  "keywords": [
+    "data",
+    "table",
+    "grid",
+    "react",
+    "bootstrap"
+  ],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@devexpress/dx-react-core": "1.7.2",
+    "@devexpress/dx-react-grid": "1.7.2",
+    "@devexpress/dx-react-grid-bootstrap4": "1.7.2",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "reactstrap": "6.3.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
